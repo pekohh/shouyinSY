@@ -1,0 +1,3 @@
+技术架构：vue-cli+webpack+elementUI+es6+stylus
+
+一个简单的模拟收银系统。实现了添加商品结算商品价格和数量。里面创建商品采用的是es6的class类的方法。和一系列遍历的运用。
